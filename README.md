@@ -1,5 +1,7 @@
 # JAMS-not-jelly
-Just another media scanning tool for your library to use with Tunarr so that you don't get files that hang anymore
+Just another media scanning tool for your library to use with Tunarr so that you don't get files that hang anymore.
+
+
 A read-only Bash diagnostic utility for identifying filesystem, permission, symbolic-link, metadata, and video-container problems in large media libraries.
 
 Originally developed to investigate a **Tunarr Local Media scanner failure caused by a broken symbolic link**, which prevented an entire movie library from scanning without identifying the offending file.
